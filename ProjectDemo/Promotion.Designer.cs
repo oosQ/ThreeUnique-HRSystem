@@ -514,7 +514,7 @@
             // exitToolStrip
             // 
             this.exitToolStrip.Name = "exitToolStrip";
-            this.exitToolStrip.Size = new System.Drawing.Size(38, 22);
+            this.exitToolStrip.Size = new System.Drawing.Size(37, 22);
             this.exitToolStrip.Text = "Exi&t";
             this.exitToolStrip.Click += new System.EventHandler(this.exitToolStrip_Click);
             // 

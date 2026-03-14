@@ -442,7 +442,7 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(26, 22);
+            this.toolStripLabel1.Size = new System.Drawing.Size(25, 22);
             this.toolStripLabel1.Text = "&Exit";
             this.toolStripLabel1.ToolTipText = "Exit this Form";
             this.toolStripLabel1.Click += new System.EventHandler(this.toolStripLabel1_Click);

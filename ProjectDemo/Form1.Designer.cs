@@ -76,8 +76,7 @@
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1138, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(975, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -92,49 +91,49 @@
             this.toolStripSeparator3,
             this.RecruitmentToolStripMenuItem});
             this.serviceToolStripMenuItem.Name = "serviceToolStripMenuItem";
-            this.serviceToolStripMenuItem.Size = new System.Drawing.Size(76, 24);
+            this.serviceToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.serviceToolStripMenuItem.Text = "Se&rvices";
             // 
             // promotionToolStripMenuItem
             // 
             this.promotionToolStripMenuItem.Name = "promotionToolStripMenuItem";
-            this.promotionToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.promotionToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.promotionToolStripMenuItem.Text = "&Promotion";
             this.promotionToolStripMenuItem.Click += new System.EventHandler(this.promotionToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(220, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(175, 6);
             // 
             // fireEmployeeToolStripMenuItem
             // 
             this.fireEmployeeToolStripMenuItem.Name = "fireEmployeeToolStripMenuItem";
-            this.fireEmployeeToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.fireEmployeeToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.fireEmployeeToolStripMenuItem.Text = "Fire &Employee";
             this.fireEmployeeToolStripMenuItem.Click += new System.EventHandler(this.fireEmployeeToolStripMenuItem_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(220, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(175, 6);
             // 
             // updateInformationToolStripMenuItem
             // 
             this.updateInformationToolStripMenuItem.Name = "updateInformationToolStripMenuItem";
-            this.updateInformationToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.updateInformationToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.updateInformationToolStripMenuItem.Text = "&Update Information";
             this.updateInformationToolStripMenuItem.Click += new System.EventHandler(this.updateInformationToolStripMenuItem_Click);
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(220, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(175, 6);
             // 
             // RecruitmentToolStripMenuItem
             // 
             this.RecruitmentToolStripMenuItem.Name = "RecruitmentToolStripMenuItem";
-            this.RecruitmentToolStripMenuItem.Size = new System.Drawing.Size(223, 26);
+            this.RecruitmentToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.RecruitmentToolStripMenuItem.Text = "&Recruitment";
             this.RecruitmentToolStripMenuItem.Click += new System.EventHandler(this.RecruitmentToolStripMenuItem_Click);
             // 
@@ -144,20 +143,20 @@
             this.changeBackColor,
             this.changeFont});
             this.desingToolStripMenuItem.Name = "desingToolStripMenuItem";
-            this.desingToolStripMenuItem.Size = new System.Drawing.Size(69, 24);
+            this.desingToolStripMenuItem.Size = new System.Drawing.Size(55, 20);
             this.desingToolStripMenuItem.Text = "De&sing";
             // 
             // changeBackColor
             // 
             this.changeBackColor.Name = "changeBackColor";
-            this.changeBackColor.Size = new System.Drawing.Size(213, 26);
+            this.changeBackColor.Size = new System.Drawing.Size(172, 22);
             this.changeBackColor.Text = "&Change BackColor";
             this.changeBackColor.Click += new System.EventHandler(this.changeBackColor_Click);
             // 
             // changeFont
             // 
             this.changeFont.Name = "changeFont";
-            this.changeFont.Size = new System.Drawing.Size(213, 26);
+            this.changeFont.Size = new System.Drawing.Size(172, 22);
             this.changeFont.Text = "Change &Font";
             this.changeFont.Click += new System.EventHandler(this.changeFont_Click);
             // 
@@ -166,13 +165,13 @@
             this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.aboutToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(55, 24);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
             this.helpToolStripMenuItem.Text = "Hel&p";
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(133, 26);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
             this.aboutToolStripMenuItem.Text = "&About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
@@ -182,10 +181,9 @@
             this.TitleLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.TitleLabel.Font = new System.Drawing.Font("Segoe Print", 32.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TitleLabel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.TitleLabel.Location = new System.Drawing.Point(313, 81);
-            this.TitleLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.TitleLabel.Location = new System.Drawing.Point(268, 66);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(548, 96);
+            this.TitleLabel.Size = new System.Drawing.Size(436, 78);
             this.TitleLabel.TabIndex = 2;
             this.TitleLabel.Text = "ThreeUniqueHRMS";
             // 
@@ -200,11 +198,9 @@
             this.groupBox1.Controls.Add(this.FiredButton);
             this.groupBox1.Controls.Add(this.PromotionButton);
             this.groupBox1.Font = new System.Drawing.Font("Tahoma", 14F);
-            this.groupBox1.Location = new System.Drawing.Point(82, 239);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Location = new System.Drawing.Point(70, 194);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(987, 288);
+            this.groupBox1.Size = new System.Drawing.Size(846, 234);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Choose Service :";
@@ -213,10 +209,9 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(752, 224);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(645, 182);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(161, 29);
+            this.label5.Size = new System.Drawing.Size(128, 23);
             this.label5.TabIndex = 7;
             this.label5.Text = "Recruitment";
             // 
@@ -224,10 +219,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(482, 224);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(413, 182);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(251, 29);
+            this.label4.Size = new System.Drawing.Size(199, 23);
             this.label4.TabIndex = 6;
             this.label4.Text = "Update Information";
             // 
@@ -235,10 +229,9 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(273, 224);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(234, 182);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(182, 29);
+            this.label3.Size = new System.Drawing.Size(145, 23);
             this.label3.TabIndex = 5;
             this.label3.Text = "Fire Employee";
             // 
@@ -246,10 +239,9 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(64, 224);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(55, 182);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(139, 29);
+            this.label2.Size = new System.Drawing.Size(110, 23);
             this.label2.TabIndex = 4;
             this.label2.Text = "Promotion";
             // 
@@ -258,10 +250,9 @@
             this.RecruitmenButton.BackgroundImage = global::ProjectDemo.Properties.Resources.Recruitment_employee;
             this.RecruitmenButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.RecruitmenButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.RecruitmenButton.Location = new System.Drawing.Point(737, 55);
-            this.RecruitmenButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.RecruitmenButton.Location = new System.Drawing.Point(632, 45);
             this.RecruitmenButton.Name = "RecruitmenButton";
-            this.RecruitmenButton.Size = new System.Drawing.Size(177, 153);
+            this.RecruitmenButton.Size = new System.Drawing.Size(152, 124);
             this.RecruitmenButton.TabIndex = 3;
             this.RecruitmenButton.UseVisualStyleBackColor = true;
             this.RecruitmenButton.Click += new System.EventHandler(this.RecruitmenButton_Click);
@@ -271,10 +262,9 @@
             this.UpdateButton.BackgroundImage = global::ProjectDemo.Properties.Resources.Update;
             this.UpdateButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.UpdateButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.UpdateButton.Location = new System.Drawing.Point(509, 55);
-            this.UpdateButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.UpdateButton.Location = new System.Drawing.Point(436, 45);
             this.UpdateButton.Name = "UpdateButton";
-            this.UpdateButton.Size = new System.Drawing.Size(177, 153);
+            this.UpdateButton.Size = new System.Drawing.Size(152, 124);
             this.UpdateButton.TabIndex = 2;
             this.UpdateButton.UseVisualStyleBackColor = true;
             this.UpdateButton.Click += new System.EventHandler(this.UpdateButton_Click);
@@ -284,10 +274,9 @@
             this.FiredButton.BackgroundImage = global::ProjectDemo.Properties.Resources.Fired;
             this.FiredButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.FiredButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.FiredButton.Location = new System.Drawing.Point(265, 55);
-            this.FiredButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.FiredButton.Location = new System.Drawing.Point(227, 45);
             this.FiredButton.Name = "FiredButton";
-            this.FiredButton.Size = new System.Drawing.Size(177, 153);
+            this.FiredButton.Size = new System.Drawing.Size(152, 124);
             this.FiredButton.TabIndex = 1;
             this.FiredButton.UseVisualStyleBackColor = true;
             this.FiredButton.Click += new System.EventHandler(this.FiredButton_Click);
@@ -297,10 +286,9 @@
             this.PromotionButton.BackgroundImage = global::ProjectDemo.Properties.Resources.Promition;
             this.PromotionButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.PromotionButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.PromotionButton.Location = new System.Drawing.Point(50, 55);
-            this.PromotionButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.PromotionButton.Location = new System.Drawing.Point(43, 45);
             this.PromotionButton.Name = "PromotionButton";
-            this.PromotionButton.Size = new System.Drawing.Size(177, 153);
+            this.PromotionButton.Size = new System.Drawing.Size(152, 124);
             this.PromotionButton.TabIndex = 0;
             this.PromotionButton.UseVisualStyleBackColor = true;
             this.PromotionButton.Click += new System.EventHandler(this.PromotionButton_Click);
@@ -310,20 +298,18 @@
             this.panel1.BackColor = System.Drawing.Color.LightSteelBlue;
             this.panel1.Controls.Add(this.CloseButton);
             this.panel1.Controls.Add(this.AboutButton);
-            this.panel1.Location = new System.Drawing.Point(335, 535);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Location = new System.Drawing.Point(287, 435);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(479, 107);
+            this.panel1.Size = new System.Drawing.Size(411, 87);
             this.panel1.TabIndex = 4;
             // 
             // CloseButton
             // 
             this.CloseButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.CloseButton.Font = new System.Drawing.Font("Tahoma", 12F);
-            this.CloseButton.Location = new System.Drawing.Point(255, 23);
-            this.CloseButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.CloseButton.Location = new System.Drawing.Point(219, 19);
             this.CloseButton.Name = "CloseButton";
-            this.CloseButton.Size = new System.Drawing.Size(177, 65);
+            this.CloseButton.Size = new System.Drawing.Size(152, 53);
             this.CloseButton.TabIndex = 1;
             this.CloseButton.Text = "Close";
             this.CloseButton.UseVisualStyleBackColor = true;
@@ -333,10 +319,9 @@
             // 
             this.AboutButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.AboutButton.Font = new System.Drawing.Font("Tahoma", 12F);
-            this.AboutButton.Location = new System.Drawing.Point(52, 23);
-            this.AboutButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.AboutButton.Location = new System.Drawing.Point(45, 19);
             this.AboutButton.Name = "AboutButton";
-            this.AboutButton.Size = new System.Drawing.Size(163, 65);
+            this.AboutButton.Size = new System.Drawing.Size(140, 53);
             this.AboutButton.TabIndex = 0;
             this.AboutButton.Text = "About";
             this.AboutButton.UseVisualStyleBackColor = true;
@@ -349,10 +334,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ProjectDemo.Properties.Resources.Image;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 33);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 27);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(233, 198);
+            this.pictureBox1.Size = new System.Drawing.Size(200, 161);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -360,10 +344,10 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.ClientSize = new System.Drawing.Size(1138, 660);
+            this.ClientSize = new System.Drawing.Size(975, 536);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.TitleLabel);
@@ -371,7 +355,6 @@
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main System";
