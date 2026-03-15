@@ -1,9 +1,5 @@
 # ThreeUnique HR Management System
 
-<div align="center">
-  <img src="ProjectDemo/Logo.ico" alt="ThreeUnique Logo" width="120"/>
-</div>
-
 ## Overview
 
 ThreeUnique is a comprehensive Human Resources Management System developed as part of a university course project to demonstrate proficiency in C# and .NET Framework development. The application provides essential HR functionalities including employee recruitment, promotions, terminations, and record management.
@@ -84,16 +80,9 @@ This project was developed as part of a university course curriculum to learn an
 - User interface design and user experience
 - Software development best practices
 
-## Contributors
-
-**Group No. 1 - Section 02**
-- Ali Radhi
-
 ## License
 
 This project is an academic assignment and is provided as-is for educational purposes.
-
----
 
 <div align="center">
   <sub>Built with ❤️ for learning C# and .NET Framework</sub>
